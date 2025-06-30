@@ -47,7 +47,7 @@ _Perry Perry, Gurugram, India_ • Jan 2021 – Jul 2022
 ## 📂 Projects
 
 ### To-Do List Web App  
-🔗 Live: [Frontend]((https://todo-frontend-orpin-psi.vercel.app) • [API](https://todo-backend-c53w.onrender.com/api)  
+🔗 Live: [Frontend](https://todo-frontend-orpin-psi.vercel.app) • [API](https://todo-backend-c53w.onrender.com/api)  
 React, Node.js, Express, MongoDB, Mongoose, Render & Vercel  
 - Session-based auth with bcrypt-secured credentials  
 - RESTful APIs with CORS & error-handling middleware  
@@ -65,7 +65,7 @@ React, Redux, Firebase, Stripe API, TMDb API
 ## 📫 Get in Touch
 
 - ✉️ asingh179@hawk.iit.edu  
-- 🔗 [LinkedIn](https://linkedin.com/in/arjunsingh)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/arjun-singh2811/)  
 - 🐙 [GitHub](https://github.com/Arjun2811)  
 
 ---
