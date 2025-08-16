@@ -46,6 +46,17 @@ _Perry Perry, Gurugram, India_ • Jan 2021 – Jul 2022
 
 ## Projects
 
+
+
+
+### QR Code Scanner & Generator
+Live: [Website](https://qr-code-scanner-generator-pi.vercel.app) • [GitHub](https://github.com/Arjun2811/qr-code-scanner-generator)
+
+HTML, CSS, JavaScript, Vercel
+- Scan QR codes using device camera or uploaded images, with flashlight support for low-light conditions.
+- Generate QR codes instantly from any text or URL, with download and copy-to-clipboard options.
+- Fully responsive, mobile-friendly, and deployed on Vercel for fast global access.
+
 ### To-Do List Web App  
 Live: [Frontend](https://todo-frontend-orpin-psi.vercel.app) • [API](https://todo-backend-c53w.onrender.com/api)  
 React, Node.js, Express, MongoDB, Mongoose, Render & Vercel  
