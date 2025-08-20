@@ -51,12 +51,10 @@ Live: [Website](https://arjun-edtech-website.vercel.app/) • [GitHub](https://g
 
 HTML5, CSS3, JavaScript, Vercel
 
--Designed and deployed a responsive EdTech platform showcasing courses, inquiry forms, and student engagement features.
--Implemented modern UI/UX with structured layouts, ensuring seamless navigation across desktop and mobile devices.
--Optimized for performance and accessibility, enhancing user experience and retention.
--Deployed on Vercel with global CDN for fast, reliable access worldwide.
-
-
+- Designed and deployed a responsive EdTech platform showcasing courses, inquiry forms, and student engagement features.
+- Implemented modern UI/UX with structured layouts, ensuring seamless navigation across desktop and mobile devices.
+- Optimized for performance and accessibility, enhancing user experience and retention.
+- Deployed on Vercel with global CDN for fast, reliable access worldwide.
 ### QR Code Scanner & Generator
 Live: [Website](https://qr-code-scanner-generator-pi.vercel.app) • [GitHub](https://github.com/Arjun2811/qr-code-scanner-generator)
 
