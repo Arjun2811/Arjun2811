@@ -46,7 +46,15 @@ _Perry Perry, Gurugram, India_ • Jan 2021 – Jul 2022
 
 ## Projects
 
+### EdTech Website
+Live: [Website](https://arjun-edtech-website.vercel.app/) • [GitHub](https://github.com/Arjun2811/Arjun-Edtech-Website)
 
+HTML5, CSS3, JavaScript, Vercel
+
+-Designed and deployed a responsive EdTech platform showcasing courses, inquiry forms, and student engagement features.
+-Implemented modern UI/UX with structured layouts, ensuring seamless navigation across desktop and mobile devices.
+-Optimized for performance and accessibility, enhancing user experience and retention.
+-Deployed on Vercel with global CDN for fast, reliable access worldwide.
 
 
 ### QR Code Scanner & Generator
