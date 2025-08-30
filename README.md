@@ -46,6 +46,16 @@ _Perry Perry, Gurugram, India_ • Jan 2021 – Jul 2022
 
 ## Projects
 
+### Resume Portfolio Website  
+Live: [Website](https://arjunresumeportfolio.vercel.app) • [GitHub](https://github.com/Arjun2811/ArjunResumePortfolio)  
+
+HTML5, CSS3, JavaScript, Bootstrap, Vercel  
+
+- Built a fully responsive personal resume portfolio website showcasing skills, projects, and contact details.  
+- Developed an interactive navigation bar, smooth scrolling, and clean section layouts for an engaging user experience.  
+- Highlighted projects with structured descriptions and links for easy access.  
+- Deployed on Vercel with automated updates on every GitHub push for seamless CI/CD.
+
 ### EdTech Website
 Live: [Website](https://arjun-edtech-website.vercel.app/) • [GitHub](https://github.com/Arjun2811/Arjun-Edtech-Website)
 
