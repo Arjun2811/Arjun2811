@@ -47,7 +47,7 @@ _Perry Perry, Gurugram, India_ • Jan 2021 – Jul 2022
 ## Projects
 
 ### Resume Portfolio Website  
-Live: [Website](https://arjunresumeportfolio.vercel.app) • [GitHub](https://github.com/Arjun2811/ArjunResumePortfolio)  
+Live: [Website](https://arjun-resume-portfolio.vercel.app) • [GitHub](https://github.com/Arjun2811/ArjunResumePortfolio)  
 
 HTML5, CSS3, JavaScript, Bootstrap, Vercel  
 
