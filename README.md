@@ -62,9 +62,9 @@ Live: [Website](https://majestic-belekoy-117fcc.netlify.app) • [GitHub](https:
 
 React, JavaScript, TMDB API, Vite, Netlify
 
--Developed a responsive movie discovery application featuring real-time search, trending movie listings, and dynamic UI components powered by the TMDB API.
--Implemented debounced search, optimized API handling, and clean component architecture for smooth performance and better user experience.
--Deployed on Netlify with a fully optimized production build and fast, reliable hosting.
+- Developed a responsive movie discovery application featuring real-time search, trending movie listings, and dynamic UI components powered by the TMDB API.
+- Implemented debounced search, optimized API handling, and clean component architecture for smooth performance and better user experience.
+- Deployed on Netlify with a fully optimized production build and fast, reliable hosting.
 
 ### EdTech Website
 Live: [Website](https://arjun-edtech-website.vercel.app/) • [GitHub](https://github.com/Arjun2811/Arjun-Edtech-Website)
