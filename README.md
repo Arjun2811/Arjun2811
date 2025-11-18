@@ -56,6 +56,16 @@ HTML5, CSS3, JavaScript, Bootstrap, Vercel
 - Highlighted projects with structured descriptions and links for easy access.  
 - Deployed on Vercel with automated updates on every GitHub push for seamless CI/CD.
 
+
+### Movie Search App
+Live: [Website](https://majestic-belekoy-117fcc.netlify.app) • [GitHub](https://github.com/Arjun2811/MovieSearchApp)
+
+React, JavaScript, TMDB API, Vite, Netlify
+
+-Developed a responsive movie discovery application featuring real-time search, trending movie listings, and dynamic UI components powered by the TMDB API.
+-Implemented debounced search, optimized API handling, and clean component architecture for smooth performance and better user experience.
+-Deployed on Netlify with a fully optimized production build and fast, reliable hosting.
+
 ### EdTech Website
 Live: [Website](https://arjun-edtech-website.vercel.app/) • [GitHub](https://github.com/Arjun2811/Arjun-Edtech-Website)
 
