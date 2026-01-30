@@ -25,7 +25,7 @@ _Mobilize It, Chicago, IL_ • November 2025 – January 2026
    
 
 **Software Engineering Intern**  
-_Abe Scott Enterprises, Chicago, IL_ • May 2025 – September 2026  
+_Abe Scott Enterprises, Chicago, IL_ • May 2025 – September 2025  
 - Built responsive **Login & Signup** pages for My Ride Link, aligning to WCAG accessibility guidelines.  
 - Led **User Profile** module with dynamic data rendering & personalized UI, projected to boost retention by 17%.  
 
