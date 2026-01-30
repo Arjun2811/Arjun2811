@@ -7,17 +7,25 @@ Chicago, IL • asingh179@hawk.iit.edu
 ---
 
 ## About Me
-I’m a motivated Computer Science graduate student (3.66 GPA) with nearly 2 years of professional software development and automation experience specializing in Java. Currently a Frontend Engineering Intern at Abe Scott Enterprises, I’ve built mission-critical UI modules and championed accessibility standards. Previously, I accelerated Verizon’s core modules at Cognizant and co-founded a data-driven e-commerce startup serving 4,000+ customers.
-
-I love crafting full-stack solutions, diving deep on data-driven features, and continuously learning new technologies.
-**Solved 500+ data structures & algorithms problems** across LeetCode, Codeforces, and HackerRank—sharpening problem-solving and performance under time constraints.
+I’m a motivated Computer Science graduate student (3.66 GPA) with nearly 2 years of professional software development experience, specializing in Java and modern web technologies. Most recently, I worked as a Software Engineering Intern at **Mobilize It**, contributing to serverless backend systems and AI-driven data extraction. Prior to that, I completed a Frontend Engineering Internship at Abe Scott Enterprises, where I built mission-critical UI modules and championed accessibility standards. Earlier, I accelerated Verizon’s core modules at Cognizant and co-founded a data-driven e-commerce startup serving 4,000+ customers.
+I enjoy crafting full-stack solutions, building data-driven features, and continuously learning new technologies.
+Solved **500+ data structures & algorithms** problems across LeetCode, Codeforces, and HackerRank—sharpening problem-solving skills and performance under time constraints.
 
 ---
 
 ## Experience
 
-**Software Engineering Intern (Volunteer)**  
-_Abe Scott Enterprises, Chicago, IL_ • May 2025 – Present  
+**Software Engineering Intern**  
+_Mobilize It, Chicago, IL_ • November 2025 – January 2026  
+- Contributed to the design, development, and maintenance of **serverless backend modules** using TypeScript and Firebase.  
+- Integrated **Google Gemini AI** to parse unstructured business card data, extracting 14+ structured fields across international formats.  
+- Resolved critical **Salesforce integration issues**, standardizing country codes and phone number formatting.  
+- Enhanced cross-platform synchronization supporting **Salesforce, Dynamics 365, and 5+ CRMs**, improving reliability and error handling.
+
+   
+
+**Software Engineering Intern**  
+_Abe Scott Enterprises, Chicago, IL_ • May 2025 – September 2026  
 - Built responsive **Login & Signup** pages for My Ride Link, aligning to WCAG accessibility guidelines.  
 - Led **User Profile** module with dynamic data rendering & personalized UI, projected to boost retention by 17%.  
 
