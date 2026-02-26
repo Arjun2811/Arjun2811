@@ -7,7 +7,7 @@ Chicago, IL • asingh179@hawk.iit.edu
 ---
 
 ## About Me
-I’m a motivated Computer Science graduate student (3.66 GPA) with nearly 2 years of professional software development experience, specializing in Java and modern web technologies. Most recently, I worked as a Software Engineering Intern at **Mobilize It**, contributing to serverless backend systems and AI-driven data extraction. Prior to that, I completed a Frontend Engineering Internship at Abe Scott Enterprises, where I built mission-critical UI modules and championed accessibility standards. Earlier, I accelerated Verizon’s core modules at Cognizant and co-founded a data-driven e-commerce startup serving 4,000+ customers.
+I’m a motivated Computer Science graduate student (3.66 GPA) with nearly 2 years of professional software development experience, specializing in Java and modern web technologies. Earlier, I accelerated Verizon’s core modules at Cognizant and co-founded a data-driven e-commerce startup serving 4,000+ customers.
 I enjoy crafting full-stack solutions, building data-driven features, and continuously learning new technologies.
 Solved **500+ data structures & algorithms** problems across LeetCode, Codeforces, and HackerRank—sharpening problem-solving skills and performance under time constraints.
 
@@ -15,25 +15,13 @@ Solved **500+ data structures & algorithms** problems across LeetCode, Codeforce
 
 ## Experience
 
-**Software Engineering Intern**  
-_Mobilize It, Chicago, IL_ • November 2025 – January 2026  
-- Contributed to the design, development, and maintenance of **serverless backend modules** using TypeScript and Firebase.  
-- Integrated **Google Gemini AI** to parse unstructured business card data, extracting 14+ structured fields across international formats.  
-- Resolved critical **Salesforce integration issues**, standardizing country codes and phone number formatting.  
-- Enhanced cross-platform synchronization supporting **Salesforce, Dynamics 365, and 5+ CRMs**, improving reliability and error handling.
-
-   
-
-**Software Engineering Intern**  
-_Abe Scott Enterprises, Chicago, IL_ • May 2025 – September 2025  
-- Built responsive **Login & Signup** pages for My Ride Link, aligning to WCAG accessibility guidelines.  
-- Led **User Profile** module with dynamic data rendering & personalized UI, projected to boost retention by 17%.  
-
 **Programmer Analyst**  
 _Cognizant Technology Solutions, Noida, India_ • Nov 2022 – Aug 2024  
-- Transitioned from intern to full-time in 6 months by delivering high-impact Java microservices.  
-- Contributed to Verizon project’s core modules in an Agile team, improving stability and performance.  
-- Developed an **internal dashboard** tracking team performance metrics, enhancing operational transparency.  
+- Developed and maintained backend services using Node.js and Express.js, building RESTful APIs to support enterprise web applications.
+- Designed and implemented MongoDB schemas and optimized database queries for efficient data storage and retrieval.  
+- Built responsive user interfaces using HTML, CSS, and JavaScript, integrating them with backend APIs for seamless data flow.
+- Implemented server-side validation, error handling, and middleware to improve application stability and security.
+- Collaborated in an Agile/Scrum environment, contributing to feature development, bug fixes, and production support while using Git for version control.
 
 **Co-Founder**  
 _Perry Perry, Gurugram, India_ • Jan 2021 – Jul 2022  
