@@ -17,11 +17,19 @@ Solved **500+ data structures & algorithms** problems across LeetCode, Codeforce
 
 **Programmer Analyst**  
 _Cognizant Technology Solutions, Noida, India_ • Nov 2022 – Aug 2024  
-- Developed and maintained backend services using Node.js and Express.js, building RESTful APIs to support enterprise web applications.
-- Designed and implemented MongoDB schemas and optimized database queries for efficient data storage and retrieval.  
-- Built responsive user interfaces using HTML, CSS, and JavaScript, integrating them with backend APIs for seamless data flow.
-- Implemented server-side validation, error handling, and middleware to improve application stability and security.
-- Collaborated in an Agile/Scrum environment, contributing to feature development, bug fixes, and production support while using Git for version control.
+- Architected and developed the scalable backend for Scanning Application, an AI-driven business card
+digitization application that automates the extraction, processing, and synchronization of physical card data
+into enterprise CRM systems.
+- Upgraded legacy, regex-heavy parsing logic to a sophisticated OCR + LLM hybrid architecture, combining
+Google Vision's TextDetection with Gemini 2.5 Flash (via Firebase Genkit) to intelligently extract
+complex, unstructured entities into a standardized JSON schema comprising 14 distinct data fields
+(including names, titles, multi-format addresses, and contact info).
+- Promoted high data integrity by crafting highly specialized system prompts that enforce strict semantic rules
+for GenAI extraction, eliminating hallucinations and ensuring 100% CRM-compatible data output.
+-Resolved critical Salesforce integration bugs including country code standardization, restoring reliable data
+synchronization and accurate phone number formatting for global users.
+- Improved efficiency of the Verizon support portal by implementing JavaScript-based input validation
+and optimized frontend logic, reducing invalid server requests and enhancing application reliability.
 
 **Co-Founder**  
 _Perry Perry, Gurugram, India_ • Jan 2021 – Jul 2022  
