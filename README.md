@@ -7,7 +7,7 @@ Chicago, IL • asingh179@hawk.iit.edu
 ---
 
 ## About Me
-I’m a motivated Computer Science graduate student (3.66 GPA) with nearly 2 years of professional software development experience, specializing in Java and modern web technologies. Earlier, I accelerated Verizon’s core modules at Cognizant and co-founded a data-driven e-commerce startup serving 4,000+ customers.
+I’m a motivated Computer Science graduate student (3.8 GPA) with nearly 2 years of professional software development experience, specializing in Java and modern web technologies. Earlier, I accelerated Verizon’s core modules at Cognizant and co-founded a data-driven e-commerce startup serving 4,000+ customers.
 I enjoy crafting full-stack solutions, building data-driven features, and continuously learning new technologies.
 Solved **500+ data structures & algorithms** problems across LeetCode, Codeforces, and HackerRank—sharpening problem-solving skills and performance under time constraints.
 
