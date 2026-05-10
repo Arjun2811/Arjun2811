@@ -50,6 +50,34 @@ _Perry Perry, Gurugram, India_ • Jan 2021 – Jul 2022
 
 ## Projects
 
+### Interview prep.ai                                                                                                                                  
+Live: [GitHub](https://github.com/Arjun2811/interview-prep-ai)
+
+Node.js, Express.js, MongoDB, Google Gemini AI, Docker, Kubernetes
+
+- Developed an AI-powered technical interview platform using Node.js, Express, and Google Gemini 2.5 Flash API to generate resume-tailored questions and provide real-time answer grading (0-100 scale) with multi-criteria feedback evaluating technical accuracy, depth of understanding, and communication clarity. 
+- Architected full-stack microservices application with RESTful API endpoints, MongoDB database with Mongoose ODM for session persistence, adaptive difficulty system (1-10 scale) that dynamically adjusts based on performance, and premium dark-mode UI featuring glassmorphism design and smooth animations.
+- Deployed containerized application using Docker and Kubernetes orchestration with load-balanced replicas (2x frontend, 2x backend), MongoDB StatefulSet, secure secrets management for API keys, and configured production-ready infrastructure supporting scalable cloud deployment.
+
+
+### AI Debugging Agent  
+Live: [GitHub](https://github.com/Arjun2811/AI-Debug-Agent)
+
+Node.js, Express.js, Groq SDK, LLaMA 3.3 70B (model)  
+
+- Developed an autonomous AI debugging agent that automatically detects, fixes, and verifies code bugs end-to-end, eliminating manual debugging by integrating LLaMA 3.3 70B (via Groq) into a self-correcting Plan → Fix → Verify loop with a REST API interface  
+- Designed a production-safe execution sandbox that prevents malicious file access and infinite loops, with iterative error-feedback ensuring the AI retries failed fixes, achieving reliable autonomous code repair in under 10 iterations
+
+
+
+
+
+
+
+
+
+
+
 ### Resume Portfolio Website  
 Live: [Website](https://arjun-resume-portfolio.vercel.app) • [GitHub](https://github.com/Arjun2811/ArjunResumePortfolio)  
 
@@ -100,6 +128,11 @@ React, Redux, Firebase, Stripe API, TMDb API
 - Secure login/signup via Firebase Auth & Realtime DB  
 - Subscription billing with Stripe integration  
 - Dynamic movie data fetched from TMDb, interactive UX  
+
+
+
+
+
 
 ---
 
