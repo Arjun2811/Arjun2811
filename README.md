@@ -70,25 +70,6 @@ Node.js, Express.js, Groq SDK, LLaMA 3.3 70B (model)
 
 
 
-
-
-
-
-
-
-
-
-### Resume Portfolio Website  
-Live: [Website](https://arjun-resume-portfolio.vercel.app) • [GitHub](https://github.com/Arjun2811/ArjunResumePortfolio)  
-
-HTML5, CSS3, JavaScript, Bootstrap, Vercel  
-
-- Built a fully responsive personal resume portfolio website showcasing skills, projects, and contact details.  
-- Developed an interactive navigation bar, smooth scrolling, and clean section layouts for an engaging user experience.  
-- Highlighted projects with structured descriptions and links for easy access.  
-- Deployed on Vercel with automated updates on every GitHub push for seamless CI/CD.
-
-
 ### Movie Search App
 Live: [Website](https://majestic-belekoy-117fcc.netlify.app) • [GitHub](https://github.com/Arjun2811/MovieSearchApp)
 
