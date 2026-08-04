@@ -1,13 +1,13 @@
 # Hi, I’m Arjun Singh 
 
-**Master’s in Computer Science** @ Illinois Institute of Technology (Expected May 2026)  
+**Master’s in Computer Science** @ Illinois Institute of Technology (May 2026)  
 Chicago, IL • asingh179@hawk.iit.edu  
 [LinkedIn](https://www.linkedin.com/in/arjun-singh2811/) • [GitHub](https://github.com/Arjun2811)
 
 ---
 
 ## About Me
-I’m a motivated Computer Science graduate student (3.8 GPA) with nearly 4 years of professional software development experience, specializing in Java and modern web technologies. Earlier, I accelerated Verizon’s core modules at Cognizant and co-founded a data-driven e-commerce startup serving 4,000+ customers.
+I’m a motivated Computer Science graduate student (3.8 GPA) with more than 4 years of professional software development experience, specializing in modern web technologies. Earlier, I accelerated Verizon’s core modules at Cognizant and co-founded a data-driven e-commerce startup serving 4,000+ customers.
 I enjoy crafting full-stack solutions, building data-driven features, and continuously learning new technologies.
 Solved **500+ data structures & algorithms** problems across LeetCode, Codeforces, and HackerRank—sharpening problem-solving skills and performance under time constraints.
 
@@ -15,7 +15,12 @@ Solved **500+ data structures & algorithms** problems across LeetCode, Codeforce
 
 ## Experience
 
-**Programmer Analyst**  
+**Software Developer**  
+PCOS Challenge, Chicago, United States • Jun 2026 – Present  
+- Identified and resolved bugs across API endpoints and database queries, improving system reliability and
+reducing downtime for internal users.
+
+**Software Engineer**  
 _Cognizant Technology Solutions, Noida, India_ • Nov 2022 – Aug 2024  
 - Architected and developed the scalable backend for Scanning Application, an AI-driven business card
 digitization application that automates the extraction, processing, and synchronization of physical card data
@@ -31,10 +36,21 @@ synchronization and accurate phone number formatting for global users.
 - Improved efficiency of the Verizon support portal by implementing JavaScript-based input validation
 and optimized frontend logic, reducing invalid server requests and enhancing application reliability.
 
-**Co-Founder**  
-_Perry Perry, Gurugram, India_ • Jan 2021 – Jul 2022  
-- Scaled a 4,000+ customer database with secure data handling and personalized engagement.  
-- Applied ML algorithms for predictive analytics, driving top-seller status on Daraz e-commerce platform.  
+**Software Developer**  
+_Ahluwalia Contracts, Delhi, India_ • Aug 2020 – Oct 2022  
+- Developed and maintained RESTful APIs using Node.js and Express.js, following MVC architecture with
+custom middleware for request validation, error handling, and authentication, supporting 5000+daily active
+users on the platform.
+- Designed and optimized MongoDB schemas for project, inventory, and client data, improving query
+  performance and supporting scalable data operations across multiple construction sites.
+- Implemented secure JWT/session-based authentication and role-based access control middleware for
+site managers, contractors, and clients, ensuring data integrity across the platform.
+
+
+**Software Intern**  
+_Ahluwalia Contracts, Delhi, India_ • May 2019 – Aug 2019  
+- Developed responsive user interfaces with React for internal company websites, building reusable
+components and integrating them with backend REST APIs.
 
 ---
 
@@ -42,7 +58,7 @@ _Perry Perry, Gurugram, India_ • Jan 2021 – Jul 2022
 
 - **Languages:** Java • JavaScript (ES6+) 
 - **Frontend:** React.js • HTML5 • CSS3 
-- **Backend:** Node.js • Express.js • MongoDB • Mongoose  
+- **Backend:** Node.js • Express.js • MongoDB
 - **Tools & Cloud:** Git  • Render • Vercel   
 - **Soft Skills:** Problem-Solving • Teamwork • Communication • Attention to Detail  
 
